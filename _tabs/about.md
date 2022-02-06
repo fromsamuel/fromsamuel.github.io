@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+<h2> Samuel </h2>
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+This is my personal webpage to keep track of interesting things.
